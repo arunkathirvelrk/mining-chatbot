@@ -6,7 +6,7 @@ from google.auth.transport import requests
 router = APIRouter()
 
 # 🔴 PUT YOUR GOOGLE CLIENT ID HERE
-GOOGLE_CLIENT_ID = "951070685427-ehge6h9jcd085fqca4rijc7b3crvvb5o.apps.googleusercontent.com"
+GOOGLE_CLIENT_ID = "#"
 
 
 class GoogleToken(BaseModel):
