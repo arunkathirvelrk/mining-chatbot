@@ -14,8 +14,8 @@ class ForgotPasswordRequest(BaseModel):
 
 
 # 🔧 Gmail Config (Use App Password ONLY)
-SMTP_EMAIL = "arunkumar.ct22@bitsathy.ac.in"
-SMTP_PASSWORD = "xojz bxdk rvzq olep"  # App password
+SMTP_EMAIL = "#"
+SMTP_PASSWORD = "#"  # App password
 
 
 @router.post("/forgot-password")
