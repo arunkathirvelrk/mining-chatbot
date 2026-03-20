@@ -19,7 +19,7 @@ The system focuses on delivering accurate and structured responses by processing
 * Natural Language Processing (NLP)
 * Backend logic for query processing
 * Web technologies (HTML, CSS, JavaScript)
-* Database (if applicable)
+* Database(MongoDB)
 
 ### 🎯 Objective
 
